@@ -216,3 +216,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+   # Ignorar dados brutos
+   dados_brutos/
+   *.csv
